@@ -1,10 +1,9 @@
-import CryptoList from './pages/cryptoList';
-import './App.css';
+import CryptoList from './pages/CryptoList';
 
 function App() {
   return (
     <div className="App">
-      <CryptoList />
+      <CryptoList/>
     </div>
   );
 }
